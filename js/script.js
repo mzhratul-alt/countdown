@@ -1,4 +1,4 @@
-var endDate = new Date("May 31,2020 00:00:00").getTime();
+var endDate = new Date("May 31,2021 00:00:00").getTime();
 var x = setInterval(function () {
    var startDate = new Date().getTime();
    var d = endDate - startDate
